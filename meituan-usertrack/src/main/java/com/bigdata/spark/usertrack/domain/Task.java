@@ -1,4 +1,4 @@
-package com.ibeifeng.senior.usertrack.domain;
+package com.bigdata.spark.usertrack.domain;
 
 import java.io.Serializable;
 

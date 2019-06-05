@@ -1,4 +1,4 @@
-package com.ibeifeng.senior.usertrack.util;
+package com.bigdata.spark.usertrack.util;
 
 import java.math.BigDecimal;
 import java.text.NumberFormat;
